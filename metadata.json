@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Distortion",
+  "description": "Interactive WebGL liquid distortion hover effect with customizable image, intensity, resolution, and cursor size controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
